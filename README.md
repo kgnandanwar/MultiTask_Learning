@@ -55,5 +55,5 @@ To run SingleNet:
 We would like to thank Prof. Jacob Whitehill for his help on this project.
 
 ## Contact
-If you have any questions, please contact `nmehta@wpi.edu`.
+If you have any questions, please contact `kgnandanwar@wpi.edu`.
 
